@@ -11,7 +11,7 @@ char **_strtok(char *line, char *delim);
  * @delim: The delimiter character.
  *
  * Return: The delimiter index marking the end of
- *         the intitial token pointed to be str.
+ *         the intitial token pointed to be str
  */
 
 int token_len(char *str, char *delim)
